@@ -1,0 +1,207 @@
+[
+  {
+    "id": "bebidas",
+    "name": "Bebidas",
+    "category": "Bebidas",
+    "price": 0,
+    "imageUrl": "https://github.com/evilrabbit.png",
+    "children": [
+      {
+        "id": "bebidas-alcoholicas",
+        "name": "Alcohólicas",
+        "category": "Bebidas",
+        "subcategory": "Alcohólicas",
+        "price": 0,
+        "imageUrl": "https://github.com/evilrabbit.png",
+        "children": [
+          {
+            "id": "ron",
+            "name": "Ron",
+            "category": "Bebidas",
+            "subcategory": "Ron",
+            "price": 0,
+            "brand": "",
+            "imageUrl": "https://github.com/evilrabbit.png",
+            "children": [
+              {
+                "id": "ron-santateresa-aniversario",
+                "name": "Santa Teresa Aniversario",
+                "category": "Bebidas",
+                "subcategory": "Ron",
+                "price": 25,
+                "brand": "Santa Teresa",
+                "imageUrl": "https://github.com/evilrabbit.png"
+              },
+              {
+                "id": "ron-santateresa-1796",
+                "name": "Santa Teresa 1796",
+                "category": "Bebidas",
+                "subcategory": "Ron",
+                "price": 45,
+                "brand": "Santa Teresa",
+                "imageUrl": "https://github.com/evilrabbit.png"
+              },
+              {
+                "id": "ron-diplomatico-reserva",
+                "name": "Diplomático Reserva",
+                "category": "Bebidas",
+                "subcategory": "Ron",
+                "price": 30,
+                "brand": "Diplomático",
+                "imageUrl": "https://github.com/evilrabbit.png"
+              }
+            ]
+          },
+          {
+            "id": "cervezas",
+            "name": "Cervezas",
+            "category": "Bebidas",
+            "subcategory": "Cervezas",
+            "price": 0,
+            "imageUrl": "https://github.com/evilrabbit.png",
+            "children": [
+              {
+                "id": "cerveza-pale-ale",
+                "name": "Pale Ale Artesanal",
+                "category": "Bebidas",
+                "subcategory": "Cervezas",
+                "price": 4.5,
+                "brand": "CraftCo",
+                "imageUrl": "https://github.com/evilrabbit.png"
+              },
+              {
+                "id": "cerveza-lager",
+                "name": "Lager Clásica",
+                "category": "Bebidas",
+                "subcategory": "Cervezas",
+                "price": 3.2,
+                "brand": "GoldBeer",
+                "imageUrl": "https://github.com/evilrabbit.png"
+              },
+              {
+                "id": "cerveza-stout",
+                "name": "Stout Negra",
+                "category": "Bebidas",
+                "subcategory": "Cervezas",
+                "price": 4.9,
+                "brand": "NightBrew",
+                "imageUrl": "https://github.com/evilrabbit.png"
+              }
+            ]
+          },
+          {
+            "id": "whiskies",
+            "name": "Whiskies",
+            "category": "Bebidas",
+            "subcategory": "Whiskies",
+            "price": 0,
+            "imageUrl": "https://github.com/evilrabbit.png",
+            "children": [
+              {
+                "id": "whisky-scotch",
+                "name": "Scotch 12 años",
+                "category": "Bebidas",
+                "subcategory": "Whiskies",
+                "price": 55,
+                "brand": "Glen Valley",
+                "imageUrl": "https://github.com/evilrabbit.png"
+              },
+              {
+                "id": "whisky-bourbon",
+                "name": "Bourbon Reserve",
+                "category": "Bebidas",
+                "subcategory": "Whiskies",
+                "price": 49,
+                "brand": "Old Creek",
+                "imageUrl": "https://github.com/evilrabbit.png"
+              },
+              {
+                "id": "whisky-rye",
+                "name": "Rye Select",
+                "category": "Bebidas",
+                "subcategory": "Whiskies",
+                "price": 46,
+                "brand": "Maple Ridge",
+                "imageUrl": "https://github.com/evilrabbit.png"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "bebidas-refrescos",
+        "name": "Refrescos",
+        "category": "Bebidas",
+        "subcategory": "Refrescos",
+        "price": 0,
+        "imageUrl": "https://github.com/evilrabbit.png",
+        "children": [
+          {
+            "id": "refresco-cola",
+            "name": "Cola",
+            "category": "Bebidas",
+            "subcategory": "Refrescos",
+            "price": 1.5,
+            "brand": "ColaCo",
+            "imageUrl": "https://github.com/evilrabbit.png"
+          },
+          {
+            "id": "refresco-limon",
+            "name": "Limonada",
+            "category": "Bebidas",
+            "subcategory": "Refrescos",
+            "price": 1.2,
+            "brand": "Citrus+",
+            "imageUrl": "https://github.com/evilrabbit.png"
+          },
+          {
+            "id": "refresco-naranja",
+            "name": "Naranja",
+            "category": "Bebidas",
+            "subcategory": "Refrescos",
+            "price": 1.3,
+            "brand": "OrangeZ",
+            "imageUrl": "https://github.com/evilrabbit.png"
+          }
+        ]
+      },
+      {
+        "id": "bebidas-jugos",
+        "name": "Jugos",
+        "category": "Bebidas",
+        "subcategory": "Jugos",
+        "price": 0,
+        "imageUrl": "https://github.com/evilrabbit.png",
+        "children": [
+          {
+            "id": "jugo-manzana",
+            "name": "Jugo de Manzana",
+            "category": "Bebidas",
+            "subcategory": "Jugos",
+            "price": 2.3,
+            "brand": "Apple Farm",
+            "imageUrl": "https://github.com/evilrabbit.png"
+          },
+          {
+            "id": "jugo-uva",
+            "name": "Jugo de Uva",
+            "category": "Bebidas",
+            "subcategory": "Jugos",
+            "price": 2.6,
+            "brand": "Purple Vine",
+            "imageUrl": "https://github.com/evilrabbit.png"
+          },
+          {
+            "id": "jugo-pina",
+            "name": "Jugo de Piña",
+            "category": "Bebidas",
+            "subcategory": "Jugos",
+            "price": 2.4,
+            "brand": "Tropic",
+            "imageUrl": "https://github.com/evilrabbit.png"
+          }
+        ]
+      }
+    ]
+  }
+]
